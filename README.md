@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   🎓 I'm pursuing my Btech in CSE from VIT-AP University 
   <br>
   <br>
-  💻 I love writing code,learning new things and solving real life problems
+  💻 I am very much interested in learning new things and apply them to solve real life problems
   <br>
   <br>
   🔬 I’m currently working on HTML and PHP
