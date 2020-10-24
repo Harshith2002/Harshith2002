@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   </code>
 </h5>
 <p align="center">
-  Hi, I'm a Web Developer 
+  Hi, I'm a Web Developer and a Programmer
   <br>
   <br>
   🎓 I'm pursuing my Btech in CSE from VIT-AP University 
