@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   💻 I am very much interested in learning new things and apply them to solve real life problems
   <br>
   <br>
-  🔬 I’m currently working on HTML and PHP
+  🔬 I’m currently working on Web Development
   <br>
   <br>
   📫 How to reach me: <a href="mailto: kanigalpulaharshith@gmail.com">kanigalpulaharshith@gmail.com</a>
