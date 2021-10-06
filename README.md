@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   Hi, I'm a Web Developer and a Programmer
   <br>
   <br>
-  🎓 I'm pursuing my Btech in CSE from VIT-AP University 
+  🎓 I'm pursuing my BTech in CSE from VIT-AP University 
   <br>
   <br>
   💻 I am very much interested in learning new things and apply them to solve real life problems
   <br>
   <br>
-  🔬 I’m currently working on Web Development
+  🔬 I’m currently working on Web and Android Development
   <br>
   <br>
   📫 How to reach me: <a href="mailto: kanigalpulaharshith@gmail.com">kanigalpulaharshith@gmail.com</a>
